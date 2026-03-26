@@ -109,7 +109,7 @@ function main() {
       subject: "Google Ads 报告: PMax Shopping 花费拆解",
       htmlBody: htmlBody
     });
-    Logger.log("✅ 报告已成功生成并发送至：" + emailAddress);
+    Logger.log("✅ 报告已成功生成并发送至：" + togo123tina@gmail.com);
   } else {
     Logger.log("⚠️ 在指定的日期范围内，没有找到产生花费的 Pmax 系列。");
   }
